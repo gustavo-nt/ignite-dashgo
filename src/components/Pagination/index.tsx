@@ -6,7 +6,7 @@ export function Pagination() {
     <Stack
       mt="8"
       align="center"
-      direction="row"
+      direction={["column", "row"]}
       justify="space-between"
     >
       <Box>

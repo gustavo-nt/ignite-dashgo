@@ -19,6 +19,9 @@ export function PaginationItem({ number, isCurrent }: PaginationItemProps) {
             bgColor: 'pink.500',
             cursor: 'default'
           }}
+          _hover={{
+            bgColor: 'pink.600'
+          }}
         >
           {number}
         </Button>
