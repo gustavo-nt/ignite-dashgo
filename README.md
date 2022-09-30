@@ -36,7 +36,7 @@
 Dashgo. é uma aplicação responsável por apresentar um dashboard acerca de um determinada empresa. Esse Projeto foi desenvolvido durante a Semana 04 do Bootcamp Ignite.
 
 ### ✅ Demonstração
-<img src="https://github.com/gustavo-nt/ignite-feed/blob/master/public/home.png" alt="Imagem de demonstração" />
+<img src="https://github.com/gustavo-nt/ignite-dashgo/blob/master/public/home.png" alt="Imagem de demonstração" />
 
 ### ⚙ Pré-requisitos
 
