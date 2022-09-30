@@ -1,34 +1,85 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="https://github.com/gustavo-nt/ignite-feed/blob/master/src/assets/ignite-logo.svg" alt="Ignite Feed"/>
+</p>
 
-## Getting Started
+<h1 align="center">
+    🚀 dashgo.
+</h1>
+<p align="center">Aplicação do Bootcamp Ignite sobre Chakra UI com Next.js</p>
 
-First, run the development server:
+<p align="center">
+  <img src="https://img.shields.io/badge/react%20version-18.0.1-informational"/>
+  <img src="https://img.shields.io/badge/score-10.00-important" />
+  <img src="https://img.shields.io/badge/last%20commit-november-blue" />
+  <img src="https://img.shields.io/badge/license-MIT-success"/>
+</p>
+
+<p align="center">
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rodando-a-aplicação-web">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Lincença</a>
+</p>
+
+<h3 align="center"> 
+🚧  Finalizado  🚧
+</h3>
+
+### 📎 Features
+
+- [x] Visualização de gráficos demonstrativos
+- [x] Apresentação de uma lista de usuários
+- [x] Acesso limitado por tela de login
+
+### 💻 Projeto
+Dashgo. é uma aplicação responsável por apresentar um dashboard acerca de um determinada empresa. Esse Projeto foi desenvolvido durante a Semana 04 do Bootcamp Ignite.
+
+### ✅ Demonstração
+<img src="https://github.com/gustavo-nt/ignite-feed/blob/master/public/home.png" alt="Imagem de demonstração" />
+
+### ⚙ Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e/ou [Yarn](https://https://yarnpkg.com/) 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Rodando o Front End (web)
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone este repositório
+$ git clone https://github.com/gustavo-nt/ignite-dashgo
+
+# Instale as dependências
+$ yarn ou npm
+
+# Execute a aplicação
+$ yarn ou npm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🚀 Tecnologias
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Next.js
+- ReactJS
+- Typescript
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### 📕 Bibliotecas
 
-## Learn More
+Esse projeto foi utilizou das seguintes lib:
 
-To learn more about Next.js, take a look at the following resources:
+- framer-motion
+- react-icons
+- apexcharts
+- chacka-ui
+- axios
+- yup
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 📝 Licença
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Esse projeto está sob a licença MIT.
 
-## Deploy on Vercel
+<hr/>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feito por Gustavo Teixeira
