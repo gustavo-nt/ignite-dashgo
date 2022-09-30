@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gustavo-nt/ignite-feed/blob/master/src/assets/ignite-logo.svg" alt="Ignite Feed"/>
+  <img src="https://github.com/gustavo-nt/ignite-dashgo/blob/master/public/logo.png" alt="dashgo."/>
 </p>
 
 <h1 align="center">
